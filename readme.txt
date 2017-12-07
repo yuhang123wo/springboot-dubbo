@@ -1,0 +1,2 @@
+1.dubbo中xmlxsi:schemaLocation会所xml错误，没关系不会影响运行
+2.zookeeper运行bin下zkServer.cmd启动
